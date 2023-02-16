@@ -5,7 +5,7 @@ import Page from './component/Page';
 
 const App = () => {
   return (
-    <div>
+    <div className='app'>
         <Page />
     </div>
   )
