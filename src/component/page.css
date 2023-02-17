@@ -29,19 +29,6 @@
     height: 580px;
   }
 
-  .logo {
-    flex-direction: row;
-    display: flex;
-    align-items: right;
-    justify-content: right;
-  }
-
-  img {
-    height: 150px;
-    width: 150px;
-
-  }
-
   .button {
     position: relative;
     outline: none;

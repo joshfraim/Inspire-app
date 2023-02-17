@@ -27,9 +27,6 @@ const Page = () => {
 
   return (
     <div className = 'app'>
-        <div className="logo">
-            <img src="../logo.png" alt="logo" />
-        </div>
         <div className='card'>
             <h2 className='heading'>{advice}</h2>
             <button className='button' onClick={handleClick}>
